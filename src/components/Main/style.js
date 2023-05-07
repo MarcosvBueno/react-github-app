@@ -6,7 +6,7 @@ export const Container = styled.main`
   border-radius: 15px;
   padding: 48px;
   display: flex;
-
+  overflow: hidden;
   @media ( max-width: 475px ) {
     max-width: 475px;
     width: 50%;

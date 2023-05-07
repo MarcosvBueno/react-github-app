@@ -11,13 +11,12 @@ export default createGlobalStyle`
 body{
   background-color: ${props => props.theme.backgroundColor};
   color: ${props => props.theme.Textcolor};
-  
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
   width: 100vw;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
   

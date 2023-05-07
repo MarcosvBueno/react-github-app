@@ -10,7 +10,7 @@ export const FormContainer = styled.form`
   position: relative;
   text-align: center;
   margin-bottom: 24px;
-  overflow-x: hidden;
+  overflow: hidden;
   img {
     position: absolute;
     left: 25px;

@@ -6,7 +6,7 @@ export const Container = styled.header`
   width: 730px;
   align-items: center;
   margin-bottom: 30px;
-  overflow-x: hidden;
+  overflow: hidden;
 `;
 
 export const HeaderContent = styled.header`
